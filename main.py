@@ -46,6 +46,7 @@ if ((n > 6 and
      n!= m or n == m)):
     n +=9
     print("n=",n)
+    
 
 
 
